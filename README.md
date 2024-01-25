@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MystasiaO
 - 👀 I’m interested in Sql Server, C#, JavaScript, Web application, Api, Jquery, Linq
-- 🌱 I’m currently learning: C#, Html, Limq
+- 🌱 I’m currently learning: C#, Html, Linq
 - 💞️ I’m looking to collaborate on Web application projects
 - 📫 How to reach me otiliaelenac@gmail.com
 
